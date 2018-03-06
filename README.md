@@ -15,7 +15,7 @@ But also we (IM(and not only mine)HO) wrote a lot of
 6. Too complex fragment stack and back stack (due the requirements also)
 
 
-## What, why and how?g
+## What, why and how?
 
 1. Kotlin
 2. How can I achieve classic TDD style and is it worth it for mobile apps? 		
