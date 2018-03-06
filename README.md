@@ -57,4 +57,11 @@ Checking if we can eliminate presenters boilerplate but do not eliminate testabi
 ### Device
 1. Is it worth to encapsulate framework and analytics specific classes in another module?
   * analytics
-  * notifications, framework managers adapters 
+  * notifications, framework managers adapters
+
+
+
+## Long distanced future
+* encryped sharedpreferences best patterns
+* encrypted DB best patterns
+ 
