@@ -52,6 +52,7 @@ Since most queries are simple - Room seems to provide flexibility.
 Checking if we can eliminate presenters boilerplate but do not eliminate testability.
 2. Check how newest Dagger API can simplify DI boilerplate-ish code. Especially around Activities/Fragments.
 3. Research of RxMVP. How to test it?
+4. Fragment vs Views stacks.
 
 ### Device
 1. Is it worth to encapsulate framework and analytics specific classes in another module?
