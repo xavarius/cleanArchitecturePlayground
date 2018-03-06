@@ -1,4 +1,6 @@
-# What we see it's worth to research? What can we achieve in this sample project?
+# Sample clean architecture app with Kotlin, MVVM, RxMVP, Rx, mappers generators, DI improvements, etc
+
+## Why?
 
 I implemented (with my work colleagues) Android application using concepts and tools like: 
 clean architecture, dependency inversion, MVP, RxMVP, TDD, Rx, Realm, Mockito, caching/offline experience 
@@ -13,7 +15,7 @@ But also we (IM(and not only mine)HO) wrote a lot of
 6. Too complex fragment stack and back stack (due the requirements also)
 
 
-# What and why I want to check and proof if it’s working?
+## What, why and how?g
 
 1. Kotlin
 2. How can I achieve classic TDD style and is it worth it for mobile apps? 		
